@@ -6,7 +6,7 @@ High School Student
 
 I've been learning to code throughout high school, and I still have a lot to learn!
 
-* 🌍  I'm based in Janesville
+* 🌍  I'm based in the American Midwest
 * ✉️  You can contact me at [braedenchubak@gmail.com](mailto:braedenchubak@gmail.com)
 * 🧠  I'm learning data structures and sorting/search algorithms
 * 🤝  I'm open to collaborating on Just about anything, let me know and I'll at least think about it!
